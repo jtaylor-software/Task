@@ -2,14 +2,13 @@
 //  AppDelegate.swift
 //  Task
 //
-//  Created by Karl Pfister on 11/11/19.
-//  Copyright © 2019 Karl Pfister. All rights reserved.
+//  Created by Jeremy Taylor on 11/11/20.
 //
 
 import UIKit
 import CoreData
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
